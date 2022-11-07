@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Saving State</string>
+
+    <!-- SCREEN NAMES / NAVIGATION BUTTONS -->
+    <string name="screen_start">ZipCode</string>
+    <string name="screen_choice">Choice</string>
+    <string name="screen_sun">Find Sun</string>
+    <string name="screen_shade">Find Shade</string>
+    <string name="button_back">Back</string>
+    <string name="button_save_and_next">Save and Next</string>
+
+    <!-- DIRECTIONS -->
+    <string name="direction_north">North</string>
+    <string name="direction_south">South</string>
+    <string name="direction_east">East</string>
+    <string name="direction_west">West</string>
+
+    <!-- PLACES -->
+    <string name="place_black_diamond">Black Diamond, WA</string>
+    <string name="place_kent">Kent, WA</string>
+    <string name="place_issaquah">Issaquah, WA</string>
+    <string name="place_north_bend">North Bend, WA</string>
+
+</resources>
